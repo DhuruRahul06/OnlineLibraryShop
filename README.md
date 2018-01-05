@@ -1,5 +1,5 @@
 # OnlineLibraryShop
-BookShop
+BookShop (Ecommerce Application Project)
 
 ##Technologies Used HTML 5
 
